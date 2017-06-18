@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Helper">
+      <UniqueIdentifier>{fa7680f6-33cb-4c83-819f-8ba6881daf5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Model">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{db5a5560-e14e-46c9-ae6b-37ecc97629be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DB">
+      <UniqueIdentifier>{febb7ca5-e9e0-4461-9193-ae6f494da490}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Klijent.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Datum.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="Odabiri.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Podaci.h">
+      <Filter>DB</Filter>
+    </ClInclude>
+    <ClInclude Include="Racun.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Transakcija.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="TransakcijaKolekcija.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="RacunKolekcija.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

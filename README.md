@@ -1,4 +1,4 @@
-### [Programiranje 1 (C++)](http://kckfmostar.com/kursevi/programiranje-2-strukturno-programiranje-u-c-/26)<br>Kultirni Centar "Kralj Fahd" Mostar
+### [Programiranje 2 (C++)](http://kckfmostar.com/kursevi/programiranje-2-strukturno-programiranje-u-c-/26)<br>Kultirni Centar "Kralj Fahd" Mostar
 #### **O KURSU**<br>
 Upoznavanje sa najvažnijim elementima strukturnog programiranja.
 
